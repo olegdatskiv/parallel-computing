@@ -1,0 +1,15 @@
+D:\Аня\University\ІІІ year\Паралельні і послід. обч-ня\Task3\Task3\bin\Debug\Task3.exe.config
+D:\Аня\University\ІІІ year\Паралельні і послід. обч-ня\Task3\Task3\bin\Debug\Task3.exe
+D:\Аня\University\ІІІ year\Паралельні і послід. обч-ня\Task3\Task3\bin\Debug\Task3.pdb
+D:\Аня\University\ІІІ year\Паралельні і послід. обч-ня\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\Аня\University\ІІІ year\Паралельні і послід. обч-ня\Task3\Task3\obj\Debug\Task3.exe
+D:\Аня\University\ІІІ year\Паралельні і послід. обч-ня\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\Demo\Downloads\I семестр\I семестр\Паралельні і послід. обч-ня\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Demo\Downloads\I семестр\I семестр\Паралельні і послід. обч-ня\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Demo\Downloads\I семестр\I семестр\Паралельні і послід. обч-ня\Task3\Task3\obj\Debug\Task3.pdb
+D:\LNY C++\Task3\Task3\bin\Debug\Task3.exe.config
+D:\LNY C++\Task3\Task3\obj\Debug\Task3.exe
+D:\LNY C++\Task3\Task3\obj\Debug\Task3.pdb
+D:\LNY C++\Task3\Task3\bin\Debug\Task3.exe
+D:\LNY C++\Task3\Task3\bin\Debug\Task3.pdb
+D:\LNY C++\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
